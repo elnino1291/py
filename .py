@@ -1,3 +1,4 @@
-for i in [5, 4, 3, 2, 1, 0]:
-     print(i)
-print('oshe')
+friends = ['chuks','francis','gbenga','zico']
+for friend in friends:
+     print('happy new month:', friend)
+print('money')
