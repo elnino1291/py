@@ -1,9 +1,3 @@
-from tkinter import N
-
-
-N = 10
-while N > 0 :
-     print('leather')
-     print('rinse')
-else:
-    return (0)
+for i in [5, 4, 3, 2, 1, 0]:
+     print(i)
+print('oshe')
